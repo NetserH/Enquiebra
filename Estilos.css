@@ -1,0 +1,27 @@
+body {
+
+    margin: 0px;
+    background-color: #34495e;
+}
+
+
+.container {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    transform: translateX(-50%)
+}
+
+.Backgr{
+
+    height: 70vh;
+    background: url("Images/Lap.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
