@@ -1,27 +1,82 @@
 body {
-
+    font-family: 'Open Sans', sans-serif;
     margin: 0px;
     background-color: #34495e;
 }
 
-
 .container {
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    background: transparent;
 }
 
-img {
-    height: 100px;
-    position: absolute;
-    bottom: 0;
-    transform: translateX(-50%)
+.insta {
+    height: 70px;
 }
 
-.Backgr{
-
+.Section1 {
     height: 70vh;
-    background: url("Images/Lap.jpg");
+    background: url("Images/advice-advise-advisor-7096\ \(1\).jpg");
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
 }
+
+.nav {
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.colorf {
+    color: black !important;
+}
+
+.colordrop {
+    background-color: white;
+}
+
+.col-md-6 {
+    margin-top: 2vh;
+}
+
+.section2 {
+    margin-top: 2vh;
+}
+
+.fullcontainer2 {
+    position: absolute;
+}
+
+.cita {
+    height: 350px;
+}
+
+.instaicon {
+    font-size: 50px;
+    padding: 5px;
+    margin-top: 10px;
+    color: whitesmoke;
+}
+
+.instaicon:hover {
+    transform: scale(1.2)
+}
+
+.parrafo {
+    background-color:rgba(255,255,255,0.5);;
+    font-size: 110%;
+    padding: 1%;
+}
+
+.files {
+    padding: 1%;
+    background-color:rgba(255,255,255,0.5);;
+   
+}
+
+.cajon
+
+   
